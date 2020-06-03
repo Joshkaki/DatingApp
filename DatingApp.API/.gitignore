@@ -1,0 +1,7 @@
+.vscode
+bin
+obj
+*.db
+WeatherForecastController.cs
+appsettings.json
+
