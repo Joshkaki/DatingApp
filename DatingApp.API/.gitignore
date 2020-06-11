@@ -3,5 +3,5 @@ bin
 obj
 *.db
 WeatherForecastController.cs
-appsettings.json
+wwwroot
 
